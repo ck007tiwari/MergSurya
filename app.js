@@ -1,1 +1,2 @@
-const name = surya;
+
+const name = 'surya kant';
