@@ -1,0 +1,31 @@
+body {
+  background-color: rgba(0, 0, 0, 0.836);
+  color: white;
+  font-style: roboto;
+}
+
+.sectionMain {
+  margin: 5rem;
+}
+h1 {
+  text-align: center;
+  color: #430280fd;
+  font-style: roboto;
+  background-color: rgba(134, 134, 41, 0.712);
+}
+header {
+  text-align: center;
+  font-weight: 500;
+  font-size: 25px;
+}
+a {
+   /* margin-top: 2rem; */
+  text-decoration: none;
+  color: rgb(255, 38, 0);
+  background-color: rgb(14, 29, 14);
+  border-radius: 20px;
+  padding: 15px 25px;
+}
+a:hove {
+  background-color: #2b722b;
+}
